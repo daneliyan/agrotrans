@@ -570,6 +570,10 @@ body {
     align-items: center;
 }
 
+.director__content {
+    padding-left: 50px;
+}
+
 .director__img {
     width: 90%;
     height: 90%;
