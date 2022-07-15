@@ -325,6 +325,10 @@ body {
     padding-bottom: 75px;
 }
 
+.about__content {
+    padding-left: 50px;
+}
+
 .about__img {
     height: 640px;
     border-radius: 16px;
@@ -410,6 +414,7 @@ body {
 .services__cards {
     row-gap: 80px;
     align-items: center;
+    justify-content: center;
 }
 
 .services__cards-item {
